@@ -6,6 +6,7 @@ Therefore, four module is established to mimic the immune system, which are the 
 the T cell module, and the APC module, and the checkpoints module. Each module are connected and 
 placed in one function. Different parts are connected by Hill Equations. By adding atezolizumab, checkpoint affinity will get influenced
 and by adding nab-paclitaxel, a chemotherapy medicine, is working on changing the cytokines producing rate and antigen releasing rate. 
+
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/113488305/208579336-ab3b3703-06dc-4bfc-9fc3-db920dbb22f5.png">
 
 Two modules will be done by each person and connection between various elements in the immune system is listed below. 
