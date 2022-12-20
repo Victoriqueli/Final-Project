@@ -11,7 +11,6 @@ Two modules will be done by each person and connection between various elements 
 (Written by Matlab)
 All the data is from the Github link listed below and the paper we mimiced is [1].
 '''https://github.com/popellab/QSPIO-TNBC/tree/main/parameters'''
+
 Reference:
-    [1]Wang H, Ma H, Sové RJ, et al
-Quantitative systems pharmacology model predictions for efficacy of atezolizumab and nab-paclitaxel in triple-negative breast cancer
-Journal for ImmunoTherapy of Cancer 2021;9:e002100. doi: 10.1136/jitc-2020-002100
+[1]Wang H, Ma H, Sové RJ, et al. Quantitative systems pharmacology model predictions for efficacy of atezolizumab and nab-paclitaxel in triple-negative breast cancer. Journal for ImmunoTherapy of Cancer 2021;9:e002100. doi: 10.1136/jitc-2020-002100
