@@ -6,14 +6,12 @@ Therefore, four module is established to mimic the immune system, which are the 
 the T cell module, and the APC module, and the checkpoints module. Each module are connected and 
 placed in one function. Different parts are connected by Hill Equations. By adding atezolizumab, checkpoint affinity will get influenced
 and by adding nab-paclitaxel, a chemotherapy medicine, is working on changing the cytokines producing rate and antigen releasing rate. 
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/113488305/208579336-ab3b3703-06dc-4bfc-9fc3-db920dbb22f5.png">
 
 Two modules will be done by each person and connection between various elements in the immune system is listed below. 
 (Written by Matlab)
 All the data is from the Github link listed below and the paper we mimiced is [1].
 '''https://github.com/popellab/QSPIO-TNBC/tree/main/parameters'''
-
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/113488305/208579293-4c85e6dd-300f-492a-afc5-c50e652a0d15.png">
-
 
 Reference:
 [1]Wang H, Ma H, Sové RJ, et al. Quantitative systems pharmacology model predictions for efficacy of atezolizumab and nab-paclitaxel in triple-negative breast cancer. Journal for ImmunoTherapy of Cancer 2021;9:e002100. doi: 10.1136/jitc-2020-002100
