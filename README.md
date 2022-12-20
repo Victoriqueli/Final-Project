@@ -1,11 +1,11 @@
 # Final-Project
 Immune System is a complicated system, and it plays a really important role when we take various medicine. 
 So, basically, we decide to stimulate how the immune system works after taking atezolizumab and nab-paclitaxel. 
-By comparing the tumor size, amount of T cells and antigen releasing rate, we could know which medicine works better. 
+By comparing the tumor size, amount of T cells and APCs in tumor compartment, we could know which medicine works better. 
 Therefore, four module is established to mimic the immune system, which are the cancer module, 
 the T cell module, and the APC module, and the checkpoints module. Each module are connected and 
 placed in one function. Different parts are connected by Hill Equations. By adding atezolizumab, checkpoint affinity will get influenced
-and by adding nab-paclitaxel, a chemotherapy medicine, is working on changing the cytokines producing rate and antigen releasing rate. 
+and by adding nab-paclitaxel, a chemotherapy medicine, is working on changing the cytokines producing rate. By running the code,　we can get three figures 'Cancer Size', 'No. of T effective in tumor compartment', and 'No. of Antigen presenting cell(APC) in tumor compartment' through 3D images.
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/113488305/208579336-ab3b3703-06dc-4bfc-9fc3-db920dbb22f5.png">
 
