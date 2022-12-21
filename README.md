@@ -5,7 +5,7 @@ By comparing the tumor size, amount of T cells and APCs in tumor compartment, we
 Therefore, four module is established to mimic the immune system, which are the cancer module, 
 the T cell module, and the APC module, and the checkpoints module. Each module are connected and 
 placed in one function. Different parts are connected by Hill Equations. By adding atezolizumab, checkpoint affinity will get influenced
-and by adding nab-paclitaxel, a chemotherapy medicine, is working on changing the cytokines producing rate. By running the code, we can get three set of data of 'Cancer Size', 'No. of T effective in tumor compartment', and 'No. of Antigen presenting cell(APC) in tumor compartment'.
+and by adding nab-paclitaxel, a chemotherapy medicine, is working on changing the cytokines producing rate. By running the code, we can get four figures of 'Cancer Size', 'No. of T effective in tumor compartment', 'Antigen releasing rate' and 'No. of Antigen presenting cell(APC) in tumor compartment'. Four curves represent four treatment cases will be shown in one figure. In the terminal, there will be the simulated time.
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/113488305/208579336-ab3b3703-06dc-4bfc-9fc3-db920dbb22f5.png">
 
